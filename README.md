@@ -1,3 +1,5 @@
+# ScreenShot of output add in assets file
+
 # Project Overview
 
 This project delivers a modern, fully functional calculator designed to mimic the appearance and behavior of a mobile phone application. It features a sleek phone frame, a 20-button layout, real-time calculation previews, and an auto-scaling display to accommodate long inputs. The calculator is built using standard web technologies: HTML for structure, CSS for styling, and JavaScript for interactivity.
